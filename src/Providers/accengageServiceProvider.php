@@ -6,8 +6,8 @@ use Plenty\Plugin\ServiceProvider;
 use Plenty\Plugin\Templates\Twig;
 
 /**
- * Class FacebookPixelServiceProvider
- * @package FacebookPixel\Providers
+ * Class accengageServiceProvider
+ * @package accengage\Providers
  */
 class accengageServiceProvider extends ServiceProvider
 {
