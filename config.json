@@ -1,0 +1,9 @@
+[
+  {
+    "tab"       : "Settings",
+    "key"       : "pixelId",
+    "label"     : "Master Domain",
+    "type"      : "text",
+    "default"   : ""
+  }
+]

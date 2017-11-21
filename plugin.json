@@ -1,0 +1,31 @@
+{
+  "name"              : "accengage",
+  "namespace"         : "accengage",
+  "marketplaceName" : {"de": "accengage","en": "accengage"},
+  "type"              : "template",
+  "version"           : "1.0.0",
+  "license"           : "AGPL-3.0",
+  "price"             : 0.00,
+  "description"       : "This plugin integrates a accengage Pixel into your plentymarkets 7 online store.",
+  "shortDescription"  : {"de": "accengage-Integration für plentymarkets 7 Webshops.","en": "accengage Pixel integration for plentymarkets 7 online stores."},
+  "categories"        : ["3527"],
+  "author"            : "plentymarkets GmbH",
+  "authorIcon"        : "icon_author_xs.png",
+  "pluginIcon"        : "icon_plugin_xs.png",
+  "email"             : "sales@plentymarkets.com",
+  "phone"             : "+49 561 98 681 100",
+  "keywords"          : ["plentymarkets", "plugins", "layout", "template", "facebook", "pixel", "tracking"],
+  "require"           : ["IO"],
+  "serviceProvider"   : "accengage\\Providers\\accengageServiceProvider",
+  "javaScriptFiles"   : [],
+  "containers"        : [],
+  "dataProviders": [
+    {
+      "key"           :"accengage\\Providers\\accengageCodeProvider",
+      "name"          :"accengage",
+      "description"   :"Include the accengage Pixel code snippet."
+    }
+  ],
+  "dependencies"      : [],
+  "runOnBuild"        : []
+}
