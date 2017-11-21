@@ -9,8 +9,8 @@
   {
     "tab"       : "Settings Testdomain",
     "key"       : "pixelId",
-    "label"     : "Master Domain",
+    "label"     : "Test Domain",
     "type"      : "text",
-    "default"   : "Bitte Domain eintragen"
+    "default"   : "Bitte Testdomain eintragen"
   }
 ]
