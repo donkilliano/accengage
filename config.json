@@ -6,8 +6,6 @@
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
   }
-]
-[
   {
     "tab"       : "Testdomain",
     "key"       : "pixelId",
