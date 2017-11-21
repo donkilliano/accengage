@@ -6,4 +6,11 @@
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
   }
+  {
+    "tab"       : "Settings",
+    "key"       : "pixelId",
+    "label"     : "Master Domain",
+    "type"      : "text",
+    "default"   : "Bitte Domain2 eintragen"
+  }
 ]
