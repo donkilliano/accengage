@@ -6,11 +6,4 @@
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
   }
-  {
-    "tab"       : "Testdomain",
-    "key"       : "pixelId2",
-    "label"     : "Master Domain",
-    "type"      : "text",
-    "default"   : "Bitte Domain eintragen"
-  }
 ]
