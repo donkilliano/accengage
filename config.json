@@ -6,6 +6,9 @@
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
   }
+]
+
+[
   {
     "tab"       : "Settings",
     "key"       : "pixelId",
