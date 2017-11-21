@@ -5,5 +5,12 @@
     "label"     : "Master Domain",
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
+  },
+  {
+    "tab"       : "Settings Testdomain",
+    "key"       : "pixelId",
+    "label"     : "Master Domain",
+    "type"      : "text",
+    "default"   : "Bitte Domain eintragen"
   }
 ]
