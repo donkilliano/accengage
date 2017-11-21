@@ -9,7 +9,7 @@
   "description"       : "This plugin integrates a accengage Pixel into your plentymarkets 7 online store.",
   "shortDescription"  : {"de": "accengage-Integration für plentymarkets 7 Webshops.","en": "accengage Pixel integration for plentymarkets 7 online stores."},
   "categories"        : ["3527"],
-  "author"            : "plentymarkets GmbH",
+  "author"            : "Christian Krause",
   "authorIcon"        : "icon_author_xs.png",
   "pluginIcon"        : "icon_plugin_xs.png",
   "email"             : "sales@plentymarkets.com",
