@@ -8,7 +8,7 @@
   }
   {
     "tab"       : "Testdomain",
-    "key"       : "pixelId",
+    "key"       : "pixelId2",
     "label"     : "Master Domain",
     "type"      : "text",
     "default"   : "Bitte Domain eintragen"
