@@ -4,6 +4,6 @@
     "key"       : "pixelId",
     "label"     : "Master Domain",
     "type"      : "text",
-    "default"   : "Bitte Domain  eintragen"
+    "default"   : "Bitte Domain eintragen"
   }
 ]
