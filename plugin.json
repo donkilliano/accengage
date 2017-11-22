@@ -14,7 +14,7 @@
   "pluginIcon"        : "icon_plugin_xs.png",
   "email"             : "sales@plentymarkets.com",
   "phone"             : "+49 561 98 681 100",
-  "keywords"          : ["plentymarkets", "plugins", "layout", "template", "facebook", "pixel", "tracking"],
+  "keywords"          : ["plentymarkets", "plugins", "layout", "template", "accengage", "pixel", "tracking"],
   "require"           : ["IO"],
   "serviceProvider"   : "accengage\\Providers\\accengageServiceProvider",
   "javaScriptFiles"   : [],
